@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+}
+
+.blue-header{
+    background-color:darkblue;
+    color:white;
+    border:10px;
+    height:35px;
+    line-height:2;
+}
+.train{
+    border-style:solid;
+    border-width:thin;
+    margin-bottom:35px;
+}
+.text{
+    width:100%;
+    margin-bottom:15px;
+}
+.departure{
+    margin-left:100px;
+}
+.minutes{
+    margin-left:45px;
+}
+.train-name{
+    left:0px;
+}
+.input{
+    margin-top:15px;
+    margin-bottom:30px;
+
+}
+.submit{
+    background-color:darkblue;
+}
