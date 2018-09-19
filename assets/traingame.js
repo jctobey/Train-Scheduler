@@ -61,7 +61,7 @@ const searchTrain = gif => {
 
     })
 }
-searchTrain()*/.
+searchTrain()*/
 $(".submit").on("click", function (event) {
     let trainNameUser = $(".train-input").val().trim();
     let destinationUser = $(".destination-input").val().trim();
